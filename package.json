@@ -1,0 +1,19 @@
+{
+  "name": "npm-publish-test",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suichukewan/npm-publish-test.git"
+  },
+  "author": "lilong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suichukewan/npm-publish-test/issues"
+  },
+  "homepage": "https://github.com/suichukewan/npm-publish-test#readme"
+}
