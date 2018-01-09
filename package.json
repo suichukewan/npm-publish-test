@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suichukewan/npm-publish-test.git"
+    "url": "git+https://github.com/suichukewan/npm-publish-test-lilong.git"
   },
   "author": "lilong",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/suichukewan/npm-publish-test/issues"
+    "url": "https://github.com/suichukewan/npm-publish-test-lilong/issues"
   },
-  "homepage": "https://github.com/suichukewan/npm-publish-test#readme"
+  "homepage": "https://github.com/suichukewan/npm-publish-test-lilong#readme"
 }
